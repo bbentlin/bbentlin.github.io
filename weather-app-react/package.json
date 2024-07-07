@@ -2,7 +2,7 @@
   "name": "weather-app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bbentlin.github.io",
+  "homepage": "https://bbentlin.github.io/bbentlin",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
